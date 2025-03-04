@@ -1,17 +1,5 @@
 def hitung_biaya_pengiriman(berat, jarak, jenis_pengiriman, is_member):
-    """
-    Fungsi untuk menghitung total biaya pengiriman berdasarkan beberapa faktor.
-
-    Parameter:
-    - berat (float): Berat paket dalam kilogram.
-    - jarak (float): Jarak pengiriman dalam kilometer.
-    - jenis_pengiriman (str): Jenis pengiriman, bisa "biasa" atau "express".
-    - is_member (bool): Status keanggotaan pelanggan, True jika member, False jika non-member.
-
-    Output:
-    - int: Total biaya pengiriman setelah mempertimbangkan semua faktor.
-    """
-
+    
     # 1. Biaya dasar pengiriman
     total_biaya = 10000
 
