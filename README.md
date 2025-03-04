@@ -1,0 +1,1 @@
+# logika-informatika-pertemuan-2
