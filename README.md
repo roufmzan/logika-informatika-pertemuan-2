@@ -1,8 +1,8 @@
-**TUGAS PERTEMUAN 1 LOGIKA INFORMATIKA**
+**LOGIKA INFORMATIKA**
 
-**Nama : Felix Amon Sitinjak**
+**Nama : RO'UF MUHAMMAD FAUZAN**
 
-**NIM : 312410063**
+**NIM : 312410157**
 
 **Kelas : TI.24.A1**
 
